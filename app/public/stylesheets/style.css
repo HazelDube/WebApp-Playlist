@@ -1,0 +1,72 @@
+body {
+  background: url("https://cdn.glitch.com/43378c12-d993-4763-8799-4e5a307842be%2Fbrush.jpeg?1552239340173")no-repeat center center fixed;
+   background-size:cover;
+}
+
+.ui.menu {
+ background-color:transparent;
+ font-size:20px;
+  border: 2px solid white;
+
+
+}
+
+nav a {
+  color:#ffffff;
+  
+ 
+}
+.ui.table thead th {
+  background-color:yellow;
+  color:white;
+  
+}
+
+#dashboard{
+  background:url("https://cdn.glitch.com/43378c12-d993-4763-8799-4e5a307842be%2Fpexels-photo-1109354.jpeg?1552240446643")
+}
+
+#about {
+  background:url("https://cdn.glitch.com/43378c12-d993-4763-8799-4e5a307842be%2Fpexels-photo-1762873.jpeg?1552249979905")
+}
+
+#art-galore {
+  background:url("https://cdn.glitch.com/43378c12-d993-4763-8799-4e5a307842be%2Fpexels-photo-1577286.jpeg?1552250334804")
+}
+
+.ui.section h2 {
+  
+  background-color: red;
+}
+
+.ui.center.aligned.middle.aligned.segment{ 
+  text-align: center;
+  font-family: "Permanent Marker", Arial;
+  background-color:white;
+}
+
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 200px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+p{
+  font-weight:bold;
+  
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}

@@ -1,0 +1,83 @@
+
+{
+  "playlistCollection": [
+    {
+      "id" : "01",
+      "title": "Classical Art",
+  
+      "songs": [
+        {
+          "id" : "04",
+          "title": "Portrait of Ginevra de Benci",
+          "artist": "Leonardo da Vinci",
+          "genre": "Classical"
+          
+        },
+        {
+          "id" : "05",
+          "title":"The last Supper",
+          "artist": "Leonardo da Vinci",
+          "genre": "Classical"
+          
+        },
+        {
+          "id" : "06",
+          "title": "Mona Lisa (La Gioconda) c",
+          "artist": "Leonardo da Vinci",
+          "genre": "Classical"
+         
+        }
+      ]
+    },
+    {
+      "id" : "02",
+      "title": "Modern Art",
+     
+      "songs": [
+        {
+          "id" : "07",
+          "title": "Girl Before a Mirror",
+          "artist": "pablo picasso",
+          "genre": "Classical"
+          
+        },
+        {
+          "id" : "08",
+          "title": "Three Musicians",
+          "artist": "pablo picasso",
+          "genre": "Classical"
+          
+        },
+        {
+          "id" : "09",
+          "title": "Gertrude Stein",
+          "artist": "pablo picasso",
+          "genre": "Classical"
+          
+        }
+      ]
+    },
+    {
+    
+      "id" : "03",
+      "title": "Contemporary Art",
+     
+      "songs": [
+        {
+          "id" : "10",
+          "title": "Self Potrait with curly hair",
+          "artist": "Frida Kahlo",
+          "genre": "Classical"
+          
+        },
+        {
+          "id" : "11",
+          "title": "Self-Portrait with thorn necklace",
+          "artist": "Frida Kahlo",
+          "genre": "1940"
+          
+        }
+      ]
+    }
+  ]
+}
